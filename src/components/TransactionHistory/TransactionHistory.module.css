@@ -1,0 +1,36 @@
+.table {
+  table-layout: fixed;
+  width: 800px;
+  border-collapse: collapse;
+  border: 3px solid black;
+  margin: 0 auto;
+  font-size: 24px;
+  letter-spacing: 0.04em;
+}
+
+.tableHead,
+.tableBody {
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.tableBody {
+  text-align: center;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.863);
+}
+
+.tableBody:first-child {
+  text-align: left;
+  padding-left: 90px;
+  text-transform: capitalize;
+}
+
+.tableHead {
+  background-color: rgba(0, 0, 0, 0.784);
+  color: white;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.83);
+}
+
+.rowBody:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.18);
+}

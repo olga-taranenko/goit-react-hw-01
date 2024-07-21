@@ -1,0 +1,29 @@
+.wrapperFriend {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nameFriend {
+  font-size: 30px;
+  letter-spacing: 0.04em;
+}
+
+.image {
+  width: 80px;
+  height: 80px;
+}
+
+.status {
+  font-size: 20px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}

@@ -4,6 +4,7 @@
   padding-top: 24px;
   width: max-content;
   margin: 0 auto;
+  margin-bottom: 74px;
 }
 
 .image {
@@ -21,7 +22,6 @@
   font-weight: 700;
   margin-bottom: 16px;
   text-align: center;
-  line-height: 1.5;
   letter-spacing: 0.04em;
 }
 
@@ -29,7 +29,6 @@
   font-size: 30px;
   color: rgba(0, 0, 0, 0.6);
   text-align: center;
-  line-height: 1.5;
   letter-spacing: 0.04em;
   margin-bottom: 16px;
 }
@@ -48,7 +47,6 @@
   justify-content: center;
   align-items: center;
   font-size: 30px;
-  line-height: 1.5;
   letter-spacing: 0.04em;
   width: 150px;
   padding: 30px;

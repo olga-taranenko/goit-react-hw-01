@@ -1,0 +1,15 @@
+.listFriends {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 74px;
+}
+
+.itemFriend {
+  border: 2px solid black;
+  width: 100px;
+  height: 200px;
+  border-radius: 6px;
+  padding: 16px;
+}
